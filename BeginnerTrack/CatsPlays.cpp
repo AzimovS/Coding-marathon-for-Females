@@ -1,8 +1,8 @@
-    #include <bits/stdc++.h>
+#include <bits/stdc++.h>
      
-    using namespace std;
+using namespace std;
      
-    int main(){
+int main(){
      
     	int n, m = 0;
      
@@ -17,4 +17,4 @@
     	else cout << "NO\n";
      
     	return 0;
-    }
+}
